@@ -70,3 +70,18 @@
  .h3 {
      font-size: 2vw;
  }
+ 
+ @media screen and (max-width:700px) {
+     #section-1 {
+         width: 50%;
+     }
+     #section-2 {
+         width: 100%;
+     }
+     #section-3 {
+         width: 100%;
+     }
+     #section-4.four-column {
+         width: 50%;
+     }
+ }
